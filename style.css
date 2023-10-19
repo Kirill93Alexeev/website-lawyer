@@ -8,7 +8,7 @@ body {
 }
 
 .main-header {
-  background-image: url(./src/image/header.jpg);
+  background-image: url(../image/header.jpg);
   min-height: 820px;
 }
 .container {
